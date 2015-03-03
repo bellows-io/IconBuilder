@@ -1,0 +1,6 @@
+{
+	"name"        : "bellows/iconbuilder",
+	"description" : "Builds ICO files out of multiple images",
+	"license"     : "GPLv2",
+	"minimum-stability":"dev"
+}
