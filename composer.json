@@ -2,5 +2,6 @@
 	"name"        : "bellows/iconbuilder",
 	"description" : "Builds ICO files out of multiple images",
 	"license"     : "GPLv2",
-	"minimum-stability":"dev"
+	"minimum-stability":"dev",
+	"psr-4": {"IconBuilder\\":"src/"}
 }
